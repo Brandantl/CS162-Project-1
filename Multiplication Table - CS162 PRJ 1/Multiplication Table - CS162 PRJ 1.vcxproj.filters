@@ -34,5 +34,8 @@
     <Text Include="..\..\..\misc\algorithm.txt">
       <Filter>MISC</Filter>
     </Text>
+    <Text Include="..\..\..\..\feedback.txt">
+      <Filter>MISC</Filter>
+    </Text>
   </ItemGroup>
 </Project>

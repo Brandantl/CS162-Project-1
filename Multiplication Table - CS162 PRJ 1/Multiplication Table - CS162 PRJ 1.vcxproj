@@ -69,6 +69,7 @@
     <Image Include="..\..\..\misc\flowchart.png" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="..\..\..\..\feedback.txt" />
     <Text Include="..\..\..\misc\algorithm.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
