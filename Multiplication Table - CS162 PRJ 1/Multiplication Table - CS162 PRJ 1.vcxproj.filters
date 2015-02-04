@@ -13,10 +13,26 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="MISC">
+      <UniqueIdentifier>{7dd3d380-06d3-4e44-ab7b-eb7fa673aa75}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="multiplicationTable.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\misc\Execution.PNG">
+      <Filter>MISC</Filter>
+    </Image>
+    <Image Include="..\..\..\misc\flowchart.png">
+      <Filter>MISC</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\misc\algorithm.txt">
+      <Filter>MISC</Filter>
+    </Text>
   </ItemGroup>
 </Project>
