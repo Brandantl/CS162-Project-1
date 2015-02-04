@@ -1,0 +1,19 @@
+	// Generate Table
+
+	// Generate the first row 
+	for (int i = 0; i <= number; i++) {
+		cout << left << setw(width) << i;
+	}
+	cout << endl;
+
+	// Generate the rest of the rows and columns.
+	for (int r = 1; r <= number; r++) {
+		// Prints out first number (column) of the row
+		cout << left << setw(width) << r;
+        for(int c = 0; c <= number; c++) {
+			// Prints out the rest of the columns and multiplys it by C * R (the first row)
+			cout << left << setw(width) << c * r;
+        }
+		// formatting
+		cout << endl;
+	}

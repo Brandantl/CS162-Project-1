@@ -1,0 +1,28 @@
+GRADE: 95/100 95%
+
+Brandan,
+
+Please contact and meet with me in class this Thursday. I will specifically go over how to send email in D2L.
+
+Assignment #1 is a basic “getting started” C++ assignment to help setup your C++ programming environment.
+
+Good work on the assignment.
+
+
+Grading Criteria
+
+==============
+
+Functionality implemented and complete
+
+Documented and commented Source Code
+
+Algorithm or Flow-Chart
+
+Sample Inputs and Outputs with Screen-shots attached
+
+Exception Handling (like input numbers out of range)
+
+Known Issues and Limitations Documented
+
+You will need to add better exception handling and Known Issues and Limitations.

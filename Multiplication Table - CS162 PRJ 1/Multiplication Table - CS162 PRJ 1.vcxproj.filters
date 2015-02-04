@@ -22,4 +22,20 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="MISC\algorithm.txt">
+      <Filter>MISC</Filter>
+    </Text>
+    <Text Include="MISC\feedback.txt">
+      <Filter>MISC</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="MISC\Execution.PNG">
+      <Filter>MISC</Filter>
+    </Image>
+    <Image Include="MISC\flowchart.png">
+      <Filter>MISC</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
