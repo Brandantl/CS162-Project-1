@@ -23,19 +23,16 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\misc\Execution.PNG">
+    <Text Include="MISC\algorithm.txt">
       <Filter>MISC</Filter>
-    </Image>
-    <Image Include="..\..\..\misc\flowchart.png">
+    </Text>
+    <Text Include="MISC\feedback.txt">
       <Filter>MISC</Filter>
-    </Image>
+    </Text>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\..\misc\algorithm.txt">
+    <Image Include="MISC\Execution.PNG">
       <Filter>MISC</Filter>
-    </Text>
-    <Text Include="..\..\..\..\feedback.txt">
-      <Filter>MISC</Filter>
-    </Text>
+    </Image>
   </ItemGroup>
 </Project>

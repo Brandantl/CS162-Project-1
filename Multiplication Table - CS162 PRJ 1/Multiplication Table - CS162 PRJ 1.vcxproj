@@ -65,12 +65,11 @@
     <ClCompile Include="multiplicationTable.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\misc\Execution.PNG" />
-    <Image Include="..\..\..\misc\flowchart.png" />
+    <Text Include="MISC\algorithm.txt" />
+    <Text Include="MISC\feedback.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\..\..\feedback.txt" />
-    <Text Include="..\..\..\misc\algorithm.txt" />
+    <Image Include="MISC\Execution.PNG" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
